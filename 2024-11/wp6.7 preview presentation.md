@@ -1,5 +1,7 @@
 # WordPress 6.7 Preview
 
+**Release Date:** November 12
+
 ## Font Library - Fluid Typography
 
 {{demo}}
@@ -52,8 +54,8 @@ add_action(
 ## Resources
 
 ### Blog Post
-- [WP Beginner Blog Post](https://www.wpbeginner.com/news/whats-coming-in-wordpress-6-7-features-and-screenshots/)
-- Maybe find some more make posts
+- [Make "Development Cycle"](https://make.wordpress.org/core/6-7/)
+- [WP Beginner](https://www.wpbeginner.com/news/whats-coming-in-wordpress-6-7-features-and-screenshots/)
 
 ### Tools
 
